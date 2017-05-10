@@ -1,0 +1,1 @@
+icc -O3 -xCOMMON-AVX512 bfs.cpp -o bfs
